@@ -516,6 +516,6 @@
 
 ---
 
-# Part II: 论文写作相关的 Skills
+# Part II: 论文写作相关的 Agent-Skills
 
 > 🚧 **开发中**：本部分将包含适用于 Agent、Skill、Claude Code 等前沿技术的写作相关 Skills。适合对 Agent 技术有一定了解的用户使用。
