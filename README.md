@@ -39,6 +39,7 @@
 - [生成表的标题](#生成表的标题)
 - [实验分析](#实验分析)
 - [论文整体以 Reviewer 视角进行审视](#论文整体以-reviewer-视角进行审视)
+- [模型选择](#模型选择)
 
 ### Part II: 论文写作相关的 Skills
 - [Skills 的配置](#skills-的配置)
@@ -629,6 +630,13 @@ Highlight the core novelty. Ensure the connection logic makes sense."""
 请根据我上传的pdf附件进行分析，我计划投稿于 [在此处输入你的投稿目标，例如：ICML 2026]
 
 ````
+
+---
+
+## 模型选择
+我们从公开网站 [arena.ai](https://arena.ai/zh/leaderboard/text/creative-writin) 上获取了排名前10的模型及具体版本，该榜单结果与科研人员的日常使用选择高度契合。在科研场景中，日常的 idea 交互与论文写作工作，主力模型仍为 Gemini-3-pro/flash；在实验代码编写场景下，更多使用 Claude-4.5 系列模型，以及 Cursor 内置的 Composer 模型。此外，从实际体验来看，GPT 5.1 与 GPT 5.2 的表现较为一般，目前对gpt系列模型的使用频率已大幅下降。
+
+![模型排名](images/model-rank.png)
 
 ---
 
